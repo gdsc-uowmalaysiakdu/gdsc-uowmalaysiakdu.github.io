@@ -12,7 +12,7 @@ A place where you can connect with people who share your passion in technology, 
 
 ### Develop new skills
 
-Learn by attending the activities, engage in active i
+Learn by attending the activities, engage in active ...
 
 ### Peek at our activities
 
@@ -28,7 +28,7 @@ Our range of possible activities include:
 ### Our Team
 
 Tae Woo Kim - GDSC Lead
-
+Asriel Teh - GDSC Co-lead
 ...
 <br>
 
