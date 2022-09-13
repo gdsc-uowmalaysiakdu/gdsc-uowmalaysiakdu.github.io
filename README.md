@@ -6,16 +6,23 @@ Google Developer Student Club (GDSC) is a program presented by Google Developers
 
 ## Why join us?
 
+<hr>
+
 ### Connect with others
 
 A place where you can connect with people who share your passion in technology, collaborate across departments, and form a tight community
 
 ### Develop new skills
 
-Learn by attending the activities, engage in active ...
+You may learn about a range of technical topics and gain new skills by participating in hands-on workshops, seminars, presentations, and project-building activities, both online and in person.
 
-### Peek at our activities
+### Grow together
 
+Apply new insights to solve outstanding problems in your community. Boost your network, career, and abilities. Contribute to your community by helping others learn.
+
+## What do we do?
+
+<hr>
 Our range of possible activities include:
 
 - Study Jam Workshop
@@ -25,9 +32,61 @@ Our range of possible activities include:
 - Projects
 - Solutions Challenge
 
-### Our Team
+<i>Past activities (2021-2022):
 
-Tae Woo Kim - GDSC Lead
-Asriel Teh - GDSC Co-lead
+- Git & github Hands-on Workshop
+- GDSC Info Session
+- Introduction to Web Development 1 (HTML & CSS)
+- Introduction to Web Development 2 (JavaScript)
+  </i>
+
+## Our Team Members
+
+<hr>
+<strong>GDSC Core Team</strong> <br>
+Tae Woo Kim - Lead<br>
+Asriel Teh - Co-lead<br>
+<i>recruiting - tech lead <br></i>
+<i>recruiting - creative lead <br></i>
+<i>recruiting - management lead <br></i>
+<br>
+<strong>GDSC Members</strong> <br>
+Tian Yoong Lee <br>
+Jack Lim Jia Je <br>
+Ooi Zi Sheng <br>
+Vikhasni Sivashanker <br>
+Low Wei Jane <br>
+Regine Chin <br>
+
 ...
 <br>
+
+## Team Structure (coming soon)
+
+<hr>
+Tech team:
+
+- Organize workshops and technical activities
+- Plan workshop logistics
+- Be in communication with the creative team members.
+- Help with developing workshop content
+
+Creative team:
+
+- Create posters, presentations, and other social media initiatives.
+- Maintain social media accounts
+- Understanding and being able to utilize Figma and other design software
+- Aid in organizing and running social events
+
+Management team:
+
+- Take care of event room reservations
+- Manage forms required for events
+- Onboard new members
+- Maintain GDSC membership and event portal
+
+## Application Links
+
+<hr>
+Member Application Form: https://forms.gle/amDNzkk9Tcrbb3788 <br>
+Core Member Application Form: https://forms.gle/amDNzkk9Tcrbb3788
