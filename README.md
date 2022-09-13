@@ -59,7 +59,6 @@ Regine Chin <br>
 
 ## Team Structure (coming soon)
 
-<hr>
 Tech team:
 
 - Organize workshops and technical activities
