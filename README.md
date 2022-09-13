@@ -6,8 +6,6 @@ Google Developer Student Club (GDSC) is a program presented by Google Developers
 
 ## Why join us?
 
-<hr>
-
 ### Connect with others
 
 A place where you can connect with people who share your passion in technology, collaborate across departments, and form a tight community
@@ -22,7 +20,6 @@ Apply new insights to solve outstanding problems in your community. Boost your n
 
 ## What do we do?
 
-<hr>
 Our range of possible activities include:
 
 - Study Jam Workshop
@@ -42,7 +39,6 @@ Our range of possible activities include:
 
 ## Our Team Members
 
-<hr>
 <strong>GDSC Core Team</strong> <br>
 Tae Woo Kim - Lead<br>
 Asriel Teh - Co-lead<br>
@@ -87,6 +83,5 @@ Management team:
 
 ## Application Links
 
-<hr>
 Member Application Form: https://forms.gle/amDNzkk9Tcrbb3788 <br>
 Core Member Application Form: https://forms.gle/amDNzkk9Tcrbb3788
