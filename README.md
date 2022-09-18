@@ -20,7 +20,7 @@ You may learn about a range of technical topics and gain new skills by participa
 
 Apply new insights to solve outstanding problems in your community. Boost your network, career, and abilities. Contribute to your community by helping others learn.
 
-## What do we do? (Events)
+## What do we do?
 
 Our range of possible activities include:
 
@@ -33,7 +33,7 @@ Our range of possible activities include:
 
 <i>Past activities (2021-2022):
 
-- Git & github Hands-on Workshop
+- Git & Github Hands-on Workshop
 - GDSC Info Session
 - Introduction to Web Development 1 (HTML & CSS)
 - Introduction to Web Development 2 (JavaScript)
@@ -60,7 +60,7 @@ Regine Chin <br>
 ...
 <br>
 
-## Normal Member vs Core Member
+## Normal Member !== Core Member
 
 Normal Member
 
@@ -87,7 +87,7 @@ Core Member
 
   - Create posters, presentations, and other social media initiatives.
   - Maintain social media accounts
-  - Understanding and being able to utilize Figma and other design software
+  - Utilize Figma and other design software
   - Aid in organizing and running social events
 
 - Management team:
@@ -116,5 +116,4 @@ Core Member Application Form: https://forms.gle/52k2PCSng38gnXmd6
 - Instagram:https://www.instagram.com/gdsc.uowmkdupg/
 - Github: https://github.com/gdsc-uowmkdupg
 - Community Channel:https://gdsc.community.dev/uow-malaysia-kdu-penang-university-college/
-- Discord: ?
-- WhatsApp: ?
+- Website: https://sites.google.com/view/gdsc-uowmkdupg
