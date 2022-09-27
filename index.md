@@ -6,6 +6,10 @@
 
 Google Developer Student Club (GDSC) is a program presented by Google Developers. GDSCs are university based community groups for students. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. By joining a GDSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community.
 
+## Background
+
+GDSC launched in 2017 as a pilot in India to help solve the challenges that university graduates were facing securing employment in the tech industry. We aimed to provide students with the resources, opportunities, and experience necessary to be industry ready, all while still pursuing their degrees. Since then, the program grew to Indonesia and Africa. This year we are growing globally. From Asia to Africa; Europe, Japan, Middle East, Australia, New Zealand, Latin America, and North America- GDSCs are training thousands of student developers and working with their communities to solve real-life problems. Check out some of our stories to learn more. We are currently in over 1500+ universities across the globe in 100+ countries!
+
 ## Why join us?
 
 ### Connect with others
@@ -39,64 +43,7 @@ Our range of possible activities include:
 - Introduction to Web Development 2 (JavaScript)
   </i>
 
-## Our Team Members
-
-<strong>GDSC Core Team</strong> <br>
-... - Faculty Advisor<br>
-Tae Woo Kim - Lead<br>
-Asriel Teh - Co-lead<br>
-<i>recruiting - tech lead <br></i>
-<i>recruiting - creative lead <br></i>
-<i>recruiting - management lead <br></i>
-<br>
-<strong>GDSC Members</strong> <br>
-Tian Yoong Lee <br>
-Jack Lim Jia Je <br>
-Ooi Zi Sheng <br>
-Vikhasni Sivashanker <br>
-Low Wei Jane <br>
-Regine Chin <br>
-
-...
-<br>
-
-## Normal Member !== Core Member
-
-Normal Member
-
-- Be active as a GDSC UOWMKDUPG member
-- Particiapte in study groups, projects, seminars, etc
-- Network with our club and GDSC SEA members
-
-Core Member
-
-- Operate GDSC UOWMKDUPG with the GDSC Lead
-- Take initiative in study groups/projects
-- Planning and taking part in seminars, events, etc
-
-## Team Structures
-
-- Tech team:
-
-  - Organize workshops and technical activities
-  - Plan workshop logistics
-  - Be in communication with the creative team members
-  - Help with developing workshop content
-
-- Creative team:
-
-  - Create posters, presentations, and other social media initiatives.
-  - Maintain social media accounts
-  - Utilize Figma and other design software
-  - Aid in organizing and running social events
-
-- Management team:
-  - Take care of event room reservations
-  - Manage forms required for events
-  - Onboard new members
-  - Maintain GDSC membership and event portal
-
-## Benefits of Joining Our Club
+## Benefits of Joining GDSC
 
 1. Networking opportunities with GDSC members around the world
 2. Certificates and swags provided by Google
