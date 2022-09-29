@@ -10,11 +10,12 @@ GDSC UOWMKDUPG is a club established at our school in 2019.
 - Whom do we serve?
   - Fellow students who are interested in technology
 - How do we serve them?
+
   - Giving information via events
   - Trigger interest via competitions/events
 
-In short: <br>
-<strong>Host events to fellow students in order to give information and trigger interest in technology.</strong>
+  In short: <br>
+  <strong>Host events to fellow students in order to give information and trigger interest in technology.</strong>
 
 <!-- We guide, learn and motivate one another in software engineering -->
 
@@ -27,13 +28,13 @@ In short: <br>
   - Bridge the gap between theory and practical application for student developers
   - Better practical knowledge leading to positive outlook onto those who are impacted
 - Who and what are we inspiring to change?
+
   - We are targeting fellow students to get inspired by technology and start their practical application journey
   - For Google Solution Challenge, we are aiming at problems in the local community and build solutions to those problems
 
-In short: <br>
-<strong>An active community at our school giving information and direction to fellow students with practical application to their theoretical knowledge</strong>
-
-<!-- Building a community where students can network with like-minded students who are passionate about software development/design/community management. -->
+  In short: <br>
+  <strong>An active community at our school giving information and direction to fellow students with practical application to their theoretical knowledge</strong>
+    <!-- Building a community where students can network with like-minded students who are passionate about software development/design/community management. -->
 
 ## Values
 
@@ -43,8 +44,6 @@ In short: <br>
 ## Goals
 
 Our goal is to create impact. Impact students and empower them to impact their communities through technology. -->
-
-## Code of Conduct
 
 ## Our Team Members
 
@@ -86,7 +85,7 @@ Core Member
 - Tech team:
 
   - Organize workshops and technical activities
-  - Plan workshop logistics
+  - Plan workshop logistics with the management team
   - Be in communication with the creative team members
   - Help with developing workshop content
 
@@ -94,7 +93,7 @@ Core Member
 
   - Create posters, presentations, and other social media initiatives.
   - Maintain social media accounts
-  - Utilize Figma and other design software
+  - Learn and utilize Figma or other design software
   - Aid in organizing and running social events
 
 - Management team:
