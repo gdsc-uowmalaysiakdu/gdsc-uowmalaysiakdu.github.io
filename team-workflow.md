@@ -4,19 +4,17 @@
 
 1. Tech team plans and decides on activity topic
 2. Tech team decides on the activity medium (physical/online)
-3. Tech team creates the activity content and agenda
-4. Tech team decides activity logistics to Management team
-5. Tech team discusses activity content to Creative team
-6. ...
-7. Tech team executes and delivers activity
+3. Tech team creates the activity content
+4. Tech team discusses activity content/logistics to Management/Creative team
+5. ...
+6. Tech team executes and delivers activity
 
 ## Creative
 
 1. Creative team discusses activity content with Tech team
 2. Creative team designs flyers
 3. Creative team posts flyers on social media
-4. Creative team designs slides
-5. Creative team delivers slides to the Tech team
+4. Creative team hands over posters to the Management team
 
 ## Management
 
